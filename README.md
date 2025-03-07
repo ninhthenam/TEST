@@ -1,6 +1,6 @@
-![GitHub Repo stars](https://img.shields.io/github/stars/MrH723/Actions-OpenWrt?color=Blue&label=Stars&style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/MrH723/Actions-OpenWrt?color=Blue&label=Fork&style=for-the-badge)
-![GitHub](https://img.shields.io/github/license/MrH723/Actions-OpenWrt?color=Blue&style=for-the-badge)
+![GitHub Repo stars](https://img.shields.io/github/stars/ninhthenam/Actions-OpenWrt?color=Blue&label=Stars&style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/ninhthenam/Actions-OpenWrt?color=Blue&label=Fork&style=for-the-badge)
+![GitHub](https://img.shields.io/github/license/ninhthenam/Actions-OpenWrt?color=Blue&style=for-the-badge)
 
 重要说明：
 此库为多年前刚开始玩软路由的时候做的。纯属爱好。现在个人已经抛弃op
